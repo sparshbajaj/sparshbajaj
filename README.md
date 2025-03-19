@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Sparsh Bajaj
-- 👀 I’m currenty looking for opportunities
-- 🌱 I’m currently learning cyber security
 - 📫 How to reach me - https://sparshbajaj.me
 
 <!---
