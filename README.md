@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Sparsh Bajaj
-- 📫 How to reach me - https://sparshbajaj.me
+- 👋 Hi, I’m [Sparsh Bajaj](https://sparshbajaj.me)
+- 🌱 I'm passionate about transforming complexity into elegant, user-centered solutions. With 6+ years in UX/UI design, research, and strategy, I specialize in crafting intuitive experiences, particularly in AI-first environments.
+- ✨ My focus areas include: UX Research, UI Design, Interaction Design, Prototyping, Design Systems, and integrating AI workflows.
+- 🔭 I believe in data-driven design and enjoy tackling complex challenges in fast-paced settings. My technical foundation is in Computer Science & Cyber Security.
+- 📫 How to reach me: [sparshbajaj.me](https://sparshbajaj.me)
 
-<!---
-sparshbajaj/sparshbajaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Sparsh Bajaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparshbajaj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/sparshbajaj/sparshbajaj)](https://github.com/sparshbajaj/sparshbajaj)
