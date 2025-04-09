@@ -4,6 +4,4 @@
 - 🔭 I believe in data-driven design and enjoy tackling complex challenges in fast-paced settings. My technical foundation is in Computer Science & Cyber Security.
 - 📫 How to reach me: [sparshbajaj.me](https://sparshbajaj.me)
 
-[![Sparsh Bajaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparshbajaj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub last commit](https://img.shields.io/github/last-commit/sparshbajaj/sparshbajaj)](https://github.com/sparshbajaj/sparshbajaj)
